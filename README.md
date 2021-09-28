@@ -41,7 +41,7 @@ sh scrips/train.sh
 
 ### 推理
 
-权重文件 https://drive.google.com/file/d/1j2MVCafoGgYqHzrFoMbGB_rmbigFc6VM/view?usp=sharing
+权重文件 https://drive.google.com/file/d/1j2MVCafoGgYqHzrFoMbGB_rmbigFc6VM/view?usp=sharing，下载后放到`detection/workdirs/log-of-fr_r50_2x_bs_crop_800x800_min05_over02_freeze-0_recrop`中
 
 ```
 # 将sh文件里面的export PYTHONPATH=megvii-traffic-sign-det/detection:$PYTHONPATH修改成自己的路径
