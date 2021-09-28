@@ -1,0 +1,10 @@
+megengine
+numpy==1.20.3
+opencv-python
+tqdm
+tabulate
+pycocotools==2.0.2
+albumentations
+pandas
+icecream
+ensemble_boxes==1.0.7
