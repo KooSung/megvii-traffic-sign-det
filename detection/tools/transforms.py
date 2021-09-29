@@ -2,7 +2,6 @@
 # -*- encoding: utf-8 -*-
 '''
 @Time    :2021/09/10 21:09:51
-@Author  :gaocheng.kosung
 '''
 import collections.abc
 import math
